@@ -65,8 +65,8 @@ Business intelligence analysis of e-commerce sales data with interactive KPIs an
 
 ## 📜 Certifications
 
-- **Python Projects for Data Science** — IBM (May 2026)
-- **Python for Data Science, AI & Development** — IBM (May 2026)
+- **Python Projects for Data Science** — IBM (May 2026)(https://www.coursera.org/account/accomplishments/verify/QJJP263OW7UA)
+- **Python for Data Science, AI & Development** — IBM (May 2026)(https://www.coursera.org/account/accomplishments/verify/YUW1KY20RWN5)
 - **Complete Data Science (ML, DL and NLP) Bootcamp** — Udemy, Krish Naik (April 2026)
 - **Data Science and AI Masters** — Udemy, Dr. Satyajit Pattnaik (December 2025)
 
