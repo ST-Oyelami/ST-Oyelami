@@ -72,7 +72,7 @@ Business intelligence analysis of e-commerce sales data with interactive KPIs an
 - **Complete Data Science (ML, DL and NLP) Bootcamp** — Udemy, Krish Naik (April 2026)
   [View here](https://www.udemy.com/certificate/UC-746254f6-c980-478d-bc2b-34becdb27d70/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
 - **Data Science and AI Masters** — Udemy, Dr. Satyajit Pattnaik (December 2025)
-  [View here](https://www.udemy.com/certificate/UC-5764057b-aeb8-468-9554-1idan94d97a1/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+  [View here](https://www.udemy.com/certificate/UC-57b4057b-aeb8-468a-9554-1fdaa94d97a1/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
 
 ---
 
