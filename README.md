@@ -27,7 +27,11 @@ Gen AI chatbot that automates insurance claim processing end to end. Ingests pol
 RAG-based learning platform for students. Upload PDFs, get grounded answers from your own documents via FAISS semantic search and an OpenAI LLM, plus AI essay grading against custom or pre-defined rubrics (IELTS, TOEFL).
 `Gen AI` `FAISS` `OpenAI` `RAG` `Machine Learning`
 
-### 🔹 [E-commerce RAG Chatbot](https://github.com/ST-Oyelami/Ecommerce_chatbot)
+### 🔹 [Dental_appointment_system](https://github.com/ST-Oyelami/Dental_appointment_system)
+A conversational AI system for managing dental appointments, powered by LangGraph and Grok-4 (xAI). This project demonstrates a multi-agent architecture where specialized agents work together to handle different appointment-related tasks through natural language interactions.
+`Gen AI` `FAISS` `OpenAI` `RAG` `Machine Learning`
+
+### 🔹 [Website RAG Chatbot](https://github.com/ST-Oyelami/Econocom_chatbot)
 Customer support chatbot built on web scraping and multi-PDF ingestion. Retrieves relevant product information, FAQs, and reviews, then generates context-aware conversational responses with a GPT-based model.
 `RAG` `Web Scraping` `GPT` `NLP` `Chatbot`
 
