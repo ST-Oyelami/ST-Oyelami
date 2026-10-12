@@ -1,21 +1,14 @@
-&lt;h1 align="center"&gt;Hi, I'm Sunday Theophilus Oyelami 👋&lt;/h1&gt;
+# Hi, I'm Sunday Theophilus Oyelami 👋
 
-&lt;h3 align="center"&gt;AI Engineer | AI Agents · RAG · LLM Applications · Automation&lt;/h3&gt;
+### AI Engineer | AI Agents · RAG · LLM Applications · Automation
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:sundayoyelami@gmail.com"&gt;📧 Email&lt;/a&gt; •
-  &lt;a href="https://github.com/ST-Oyelami"&gt;💻 GitHub&lt;/a&gt; •
-  &lt;a href="https://www.linkedin.com/"&gt;💼 LinkedIn&lt;/a&gt;
-&lt;/p&gt;
+📧 [Email](mailto:sundayoyelami@gmail.com) • 💻 [GitHub](https://github.com/ST-Oyelami) • 💼 [LinkedIn](https://www.linkedin.com/in/sunday-oyelami-153b68268)
 
 ---
 
 ## 🚀 About Me
 
-I design, build, and deploy **production-grade artificial intelligence systems**: AI agents,
-retrieval-augmented generation (RAG) pipelines, intelligent chatbots, and end-to-end
-workflow automation. My focus is simple: systems that keep working after the demo, with the
-security, logging, and documentation that production demands.
+I design, build, and deploy **production-grade artificial intelligence systems**: AI agents, retrieval-augmented generation (RAG) pipelines, intelligent chatbots, and end-to-end workflow automation. My focus is simple: systems that keep working after the demo, with the security, logging, and documentation that production demands.
 
 - 🔭 I build with **OpenAI, Anthropic Claude, LangChain, n8n, Python, and FastAPI**
 - 🌱 Currently deepening expertise in **AI agent orchestration, MLOps, and evaluation pipelines**
@@ -27,37 +20,27 @@ security, logging, and documentation that production demands.
 ## 📌 Featured Projects
 
 ### 🔹 [Insurance Claim Automation](https://github.com/ST-Oyelami/Insurance_claim_automation)
-Gen AI chatbot that automates insurance claim processing end to end. Ingests policy
-handbooks and medical records, converts documents into vector embeddings for semantic
-retrieval (RAG), and uses an OpenAI LLM to evaluate claims, flag potential fraud, and
-issue a valid or rejected verdict with full reasoning.
+Gen AI chatbot that automates insurance claim processing end to end. Ingests policy handbooks and medical records, converts documents into vector embeddings for semantic retrieval (RAG), and uses an OpenAI LLM to evaluate claims, flag potential fraud, and issue a valid or rejected verdict with full reasoning.
 `Python` `OpenAI` `RAG` `Embeddings` `NLP`
 
 ### 🔹 [Chat Scholar](https://github.com/ST-Oyelami/Chat_scholar)
-RAG-based learning platform for students. Upload PDFs, get grounded answers from your own
-documents via FAISS semantic search and an OpenAI LLM, plus AI essay grading against
-custom or pre-defined rubrics (IELTS, TOEFL).
+RAG-based learning platform for students. Upload PDFs, get grounded answers from your own documents via FAISS semantic search and an OpenAI LLM, plus AI essay grading against custom or pre-defined rubrics (IELTS, TOEFL).
 `Gen AI` `FAISS` `OpenAI` `RAG` `Machine Learning`
 
 ### 🔹 [E-commerce RAG Chatbot](https://github.com/ST-Oyelami/Ecommerce_chatbot)
-Customer support chatbot built on web scraping and multi-PDF ingestion. Retrieves relevant
-product information, FAQs, and reviews, then generates context-aware conversational
-responses with a GPT-based model.
+Customer support chatbot built on web scraping and multi-PDF ingestion. Retrieves relevant product information, FAQs, and reviews, then generates context-aware conversational responses with a GPT-based model.
 `RAG` `Web Scraping` `GPT` `NLP` `Chatbot`
 
 ### 🔹 [AI Text Humanizer](https://github.com/ST-Oyelami/AI-generated-Text-Humanizer)
-API for generating natural, human-like rewrites of AI-generated text, with a companion
-paraphrase API for programmatic access.
+API for generating natural, human-like rewrites of AI-generated text, with a companion paraphrase API for programmatic access.
 `Python` `FastAPI` `OpenAI` `NLP`
 
 ### 🔹 [n8n AI Automation Project](https://github.com/ST-Oyelami/n8n_AI_Automation_Project)
-Event-driven AI workflows built with n8n: agent automation, webhooks, API integrations,
-and human-in-the-loop approval steps for real business processes.
+Event-driven AI workflows built with n8n: agent automation, webhooks, API integrations, and human-in-the-loop approval steps for real business processes.
 `n8n` `Automation` `AI Agents` `REST APIs`
 
 ### 🔹 [ElectroHub Sales Analytics Report](https://github.com/ST-Oyelami/ElectroHub_Sales_Analytics_Report)
-Business intelligence analysis of e-commerce sales data with interactive KPIs and
-visual insights for data-driven decision-making.
+Business intelligence analysis of e-commerce sales data with interactive KPIs and visual insights for data-driven decision-making.
 `Power BI` `Data Analysis` `Business Intelligence`
 
 ---
@@ -97,8 +80,6 @@ visual insights for data-driven decision-making.
 
 - 📧 Email: **sundayoyelami@gmail.com**
 - 💻 GitHub: **[@ST-Oyelami](https://github.com/ST-Oyelami)**
-- 💼 LinkedIn: *[add your LinkedIn URL]*
+- 💼 LinkedIn: **[linkedin.com/in/sunday-oyelami-153b68268](https://www.linkedin.com/in/sunday-oyelami-153b68268)**
 
-&lt;p align="center"&gt;
-  &lt;i&gt;Let us build something that works.&lt;/i&gt; 🚀
-&lt;/p&gt;
+*Let us build something that works.* 🚀
