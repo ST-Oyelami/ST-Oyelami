@@ -13,7 +13,7 @@ I design, build, and deploy **production-grade artificial intelligence systems**
 - 🔭 I build with **OpenAI, Anthropic Claude, LangChain, n8n, Python, and FastAPI**
 - 🌱 Currently deepening expertise in **AI agent orchestration, MLOps, and evaluation pipelines**
 - 🎓 **B.Eng, Computer Engineering (First Class Honours), 2026**
-- 💼 Open to freelance projects and long-term collaborations on **Upwork**
+- 💼 Open to freelance projects and long-term collaborations on [**Upwork**](https://www.upwork.com/freelancers/~0152d730bf2e290d0a?mp_source=share)
 
 ---
 
